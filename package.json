@@ -1,0 +1,22 @@
+{
+  "name": "sithu-own-library",
+  "version": "1.0.0",
+  "description": "swd student",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SithuO1O/sithu-own-library.git"
+  },
+  "keywords": [
+    "sithu-own-library"
+  ],
+  "author": "Sithu Aung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SithuO1O/sithu-own-library/issues"
+  },
+  "homepage": "https://github.com/SithuO1O/sithu-own-library#readme"
+}
